@@ -11,17 +11,17 @@ interface Project {
 const featuredProjects: Project[] = [
   {
     id: 1,
-    title: "NeuraWeb – Futuristic AI Website Landing Design",
-    description: "A sleek, dark-themed AI-powered landing page concept built in Figma. Designed for modern startups and futuristic digital products, it features glowing neon visuals, immersive UI, and a dynamic tone. The design encapsulates the cutting-edge possibilities of AI and tech, offering a glimpse into the future of online experiences for tech-forward companies.",
-    link: "https://www.figma.com/community/file/1441377868897233703/ai-website-landing-design",
-    image: "/projects/project-1.png",
+    title: "YUVA - Full-Stack Membership Management Web Application",
+    description: "The YUVA Website is a full-stack web application developed to support a student-led organization by digitizing membership management and internal coordination. The platform enables users to register, authenticate, and manage memberships, while administrators can oversee member data and organizational activities through a dedicated dashboard.The project focuses on clean UI design, secure authentication, role-based access control, and structured data management. It was built to solve real operational needs of a student organization and provided hands-on experience in designing, developing, and deploying a complete web solution.This project strengthened my understanding of full-stack development, system architecture, and building scalable applications aligned with real-world use cases.",
+    link: "https://yuva-web.vercel.app/login",
+    image: "/projects/1.png",
   },
   {
     id: 2,
-    title: "Apple Vision Pro – HR Software Design",
-    description: "A futuristic HR software concept designed for Apple Vision Pro, built in Figma to reimagine attendance, leave tracking, and employee experience - all in one immersive interface.",
-   link: "https://www.figma.com/community/file/1371824014208363481/apple-vision-pro-hr-software-design",
-    image: "/projects/project-2.png",
+    title: "Namma Kadai - Full-Stack E-commerce Web Application",
+    description: "Namma Kadai is a full-stack e-commerce web application built to provide a clean, user-friendly online shopping experience with category-based product browsing and seamless cart functionality. The platform features a modern React frontend with responsive UI, dynamic product filtering (such as electronics, shoes, clothes, and mobiles), and an intuitive navigation system. On the backend, it integrates Node.js and database support to manage products, users, and orders efficiently. The project focuses on performance, scalability, and usability, demonstrating real-world full-stack development practices including routing, state management, API integration, and modular component design.",
+   link: "https://sugeshan19.github.io/NammaKadai/",
+    image: "/projects/2.png",
   },
 ];
 

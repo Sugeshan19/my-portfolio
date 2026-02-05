@@ -11,27 +11,27 @@ interface ExperienceCard {
 const experienceCards: ExperienceCard[] = [
   {
     id: 1,
-    title: "WebHR - HR Management App",
-    description: "WebHR automates all of your company's HR processes such as Recruitment, Onboarding, Payroll, Time & Attendance, Leaves & PTO, Performance, and much more.",
+    title: "Full Stack Developer Intern",
+    description: "Successfully completed a two-month industrial internship focused on Full Stack Web Development.\n\nGained hands-on experience with the MERN stack (MongoDB, Express.js, React, Node.js).\n\nWorked on designing, developing, and deploying responsive and scalable web applications.\n\nEnhanced skills in API integration, database management, and frontend optimization.",
     icon: "/cards/card-1.png",
   },
   {
     id: 2,
-    title: "WebHR Kiosk - Time Clock Kiosk",
-    description: "WebHR Kiosk is a time clock kiosk that allows you to clock in and out of your work. It is a simple and easy to use app that allows you to clock in and out of your work.",
+    title: "React Developer Intern",
+    description: "Collaborated on multiple client projects, developing responsive and dynamic user interfaces using React.js, JavaScript, HTML, and CSS.\n\nAssisted in integrating REST APIs and managing application state using React Hooks and Context API.\n\nWorked closely with senior developers to ensure cross-browser compatibility and optimize front-end performance.",
     icon: "/cards/card-2.png",
   },
   {
     id: 3,
-    title: "Somezing - AI-Powered Agents",
-    description: "Somezing is a AI-Powered Agents to Automate Your Workflows. It is a simple and easy to use app that allows you to automate your workflows.",
+    title: "Web Developer Intern",
+    description: "Built and styled responsive web pages using HTML, CSS, and JavaScript.\n\nGained hands-on experience in front-end development workflows and design principles.\n\nCollaborated with mentors to improve coding practices and optimize web performance.",
     icon: "/cards/card-3.png",
   },
   {
     id: 4,
-    title: "FileIT - File Sharing App",
-    description: "FileIT is a file sharing app that allows you to share files with your friends and family. It is a simple and easy to use app that allows you to share files with your friends and family.",
-    icon: "/cards/card-4.png",
+    title: "1st Place — Data Analytics Hackathon (NIT Trichy)",
+    description: "I secured 1st place in the Data Analytics Hackathon conducted at NIT Trichy (RU Skilled, Sept 2025), demonstrating strong problem-solving and technical execution under competitive conditions. Beyond this win, I have actively participated in multiple hackathons and technical events across my college and other institutions, including the IBM Z Datathon, continuously building real-world experience in full-stack development, data analytics, and collaborative project delivery.",
+    icon: "/cards/image4.png",
   },
 ];
 
@@ -61,11 +61,11 @@ export default function Experience(): React.JSX.Element {
               <h3 className="text-xl font-semibold text-white mb-2">
                 {card.title}
               </h3>
-              <p className="text-white/70 text-sm mb-4">
-                {card.description}
+              <p className="text-white/70 text-sm mb-4 whitespace-pre-line">
+                 {card.description}
               </p>
               <Link
-                href="https://ibiimemon.com/lab"
+                href="https://sugeshanportfolio.vercel.app/skills"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-purple-400 hover:text-purple-300 font-medium text-sm transition-colors inline-block"

@@ -7,12 +7,12 @@ export default function About(): React.JSX.Element {
       <div className="container mx-auto max-w-6xl">
         <div className="text-center mb-16">
           <p className="text-2xl max-w-6xl mx-auto">
-            I&apos;m currently looking to join a <span className="text-purple-400">cross-functional team</span><br/> <span className="text-sm">that values 
-            improving people&apos;s lives through accessible design</span>
+            I&apos;m currently looking to join a <span className="text-purple-400">cross-functional team</span><br/> <span className="text-sm"> that ships real products, solves real problems, 
+            and values strong full-stack engineering.</span>
           </p>
         </div>
         <Image 
-          src="/assets/illustration.png"
+          src="/assets/image1.png"
           alt="Skills"
           width={800}
           height={800}

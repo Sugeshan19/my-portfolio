@@ -12,34 +12,37 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Ibrahim Memon - Software Engineer & UI/UX Designer",
-  description: "A self-taught UI/UX designer and Software Engineer at WebHR. Creating meaningful and delightful digital products that balance user needs and business goals. 3+ years of industry experience.",
+  title: "Sugeshan S - Full-Stack Developer (MERN)",
+  description: "I’m a passionate Computer Science and Engineering undergraduate with a strong curiosity for solving real-world problems through technology. Currently exploring web development (React, Node.js, MongoDB) and building projects ranging from e-commerce platforms to social impact solutions like emergency volunteer alert systems.",
   keywords: [
-    "Ibrahim Memon",
-    "Software Engineer",
-    "UI/UX Designer",
+    "Sugeshan S",
+    "Full-Stack Developer",
+    "MERN Stack Developer",
     "Frontend Developer",
     "React Developer",
-    "Next.js Developer",
+    "Backend Developer",
     "Web Designer",
-    "WebHR Engineer",
+    "Web Developer",
     "Portfolio",
+    "Technology Enthusiast",
+    "Computer Science Student",
+    "E-commerce Developer",
   ],
-  authors: [{ name: "Ibrahim Memon" }],
-  creator: "Ibrahim Memon",
-  publisher: "Ibrahim Memon",
+  authors: [{ name: "Sugeshan S" }],
+  creator: "Sugeshan S",
+  publisher: "Sugeshan S",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://ibiimemon.com",
-    title: "Ibrahim Memon - Software Engineer & UI/UX Designer",
-    description: "A self-taught UI/UX designer and Software Engineer at WebHR. Creating meaningful and delightful digital products.",
-    siteName: "Ibrahim Memon Portfolio",
+    url: "https://sugeshanportfolio.vercel.app/home",
+    title: "Sugeshan S - Full-Stack Developer (MERN)",
+    description: "I’m a passionate Computer Science and Engineering undergraduate with a strong curiosity for solving real-world problems through technology. Currently exploring web development (React, Node.js, MongoDB) and building projects ranging from e-commerce platforms to social impact solutions like emergency volunteer alert systems.",
+    siteName: "Sugeshan S Portfolio",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Ibrahim Memon - Software Engineer & UI/UX Designer",
-    description: "A self-taught UI/UX designer and Software Engineer at WebHR.",
+    title: "Sugeshan S - Full-Stack Developer (MERN)",
+    description: "I’m a passionate Computer Science and Engineering undergraduate with a strong curiosity for solving real-world problems through technology. Currently exploring web development (React, Node.js, MongoDB) and building projects ranging from e-commerce platforms to social impact solutions like emergency volunteer alert systems.",
   },
   robots: {
     index: true,
@@ -68,7 +71,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="canonical" href="https://ibiimemon.com" />
+        <link rel="canonical" href="https://sugeshanportfolio.vercel.app/home" />
       </head>
       <body
         className={`${poppins.variable} font-sans antialiased`}
