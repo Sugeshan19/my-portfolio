@@ -1,53 +1,68 @@
-# Personal Developer Portfolio 🚀
+## 🧑‍💻 My Portfolio Website
 
-[![Site preview](/public/assets/thumbnail.png)](https://figma-portfolio-ten.vercel.app/)
+Welcome to my personal portfolio website — a digital space where I showcase my skills, projects, and passion for web development.
 
-Welcome to my developer portfolio! This project showcases my skills, projects, and experience as a Software Engineer and UI/UX Designer. Built with [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), and [Tailwind CSS](https://tailwindcss.com). It not only provides a visually appealing representation of my work but also ensures optimal performance. View the [live site](https://figma-portfolio-ten.vercel.app/).
+## 🚀 About This Project
 
-# Features 🎉
+This portfolio is built to highlight my journey as a Computer Science Engineering student and an aspiring Full Stack Developer.
+It includes details about me, my technical skills, and the projects I’ve built so far.
 
-The whole [portfolio](https://figma-portfolio-ten.vercel.app/) is a React-based single page app built with Next.js in TypeScript, using only statically generated pages.
+## 💻 Tech Stack
 
-- **Modern Design**: Beautiful, dark-themed UI designed in Figma with purple gradient accents
-- **Animated Typing Effect**: Dynamic text animation in the hero section that cycles through roles
-- **Responsive Layout**: Fully responsive design that works seamlessly on all devices
-- **Performance Optimized**: Built with Next.js 16 for optimal performance and SEO
-- **Project Showcase**: Featured projects section with detailed descriptions and links
-- **Smooth Animations**: Engaging user experience with smooth transitions and effects
-- **Analytics Integration**: Vercel Analytics for tracking website performance
+Frontend: React.js, HTML5, CSS3, JavaScript
 
-# Fonts ✍🏻
+Styling: Custom CSS, responsive design
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load [Poppins](https://fonts.google.com/specimen/Poppins), a custom Google Font with multiple weights (300-900).
+Deployment: GitHub Pages
 
-# Project images 🖼️
+## 🌟 Features
 
-All project images live under `public/projects` and are referenced in the `Projects.tsx` component. The assets folder contains all icons, images, and other media files used throughout the portfolio.
+🎨 Clean and modern user interface
 
-# ✨ Development
+⌨️ Animated typing effect using react-typed
 
-```bash
-git clone git@github.com:ibrahimmemonn/Figma_Portfolio.git
+📱 Fully responsive design for all screen sizes
 
-cd Figma_Portfolio/
+## 🧠 Sections for:
 
-npm i
+About Me
 
-npm run dev
-```
+Skills
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Projects
 
-# 🚚 Deployment
+Contact Me
 
-Every branch or Pull Request is automatically deployed by [Vercel](https://vercel.com/) with their GitHub integration, where the `main` branch is automatically aliased to [figma-portfolio-ten.vercel.app](https://figma-portfolio-ten.vercel.app/). A link to a preview deployment will appear under each Pull Request.
 
-# 🏛 Licenses
+## 🔗 Live Demo
 
-© Copyright 2025 Ibrahim Memon
+[👉 View My Portfolio]( my-portfolio-tau-orpin-59.vercel.app)
 
-Don't care if you fork & play with it, but you're not allowed to publish anything from it as a whole without my written permission. Also please be aware, the combination of typography, colors & layout makes up my brand identity. So please don't just clone everything, but rather do a remix!
 
----
+## 👨‍🎓 About Me
 
-⭐ If you found this project helpful or interesting, please consider giving it a star!
+Hi! I’m Sugeshan, a passionate Computer Science and Engineering student aiming to become a Full Stack Developer at Zoho.
+My father’s inspiring words and my girl who supports me every day, both push me toward achieving my goals. ❤️
+
+## I’m skilled in:
+
+⚛️ React
+
+🧩 HTML, CSS, JavaScript
+
+🐍 Python
+
+📚 Currently learning Node.js, Express, and MongoDB
+
+## 📬 Contact Me
+
+If you’d like to connect or collaborate, feel free to reach out!
+
+📧 Email: [sugeshansenthilv@gmail.com]
+
+💼 LinkedIn: [www.linkedin.com/in/sugeshan-s]
+
+
+⭐ Show Your Support
+
+If you like this project, please give it a star on GitHub — it really motivates me to keep improving! 🌟
